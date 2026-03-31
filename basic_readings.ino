@@ -2,8 +2,6 @@
 #include <Adafruit_Sensor.h>
 #include <Wire.h>
 
-//Make any change
-//Make another change
 
 Adafruit_MPU6050 mpu;
 
